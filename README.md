@@ -20,7 +20,11 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+> Adds this copyright sentence to the end of all app pages. Easily accessible and customizable.
+
+```ruby
+OalbachaViewTool::Renderer.copyright 'Omar Albacha', 'All Rights Reserved'
+```
 
 ## Development
 
